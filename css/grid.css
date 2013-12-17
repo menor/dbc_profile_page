@@ -1,21 +1,21 @@
 /*
  Width: 1000px
  # Columns : 12 
- Column width: 65px
- Gutter : 20px 
+ Column width: 54px
+ Gutter : 32px 
 
  */
-.grid_1 { width: 65px; }
-.grid_2 { width: 150px; }
-.grid_3 { width: 235px; }
-.grid_4 { width: 320px; }
-.grid_5 { width: 405px; }
-.grid_6 { width: 490px; }
-.grid_7 { width: 575px; }
-.grid_8 { width: 660px; }
-.grid_9 { width: 745px; }
-.grid_10 { width: 830px; }
-.grid_11 { width: 915px; }
+.grid_1 { width: 54px; }
+.grid_2 { width: 140px; }
+.grid_3 { width: 226px; }
+.grid_4 { width: 312px; }
+.grid_5 { width: 398px; }
+.grid_6 { width: 484px; }
+.grid_7 { width: 570px; }
+.grid_8 { width: 656px; }
+.grid_9 { width: 742px; }
+.grid_10 { width: 828px; }
+.grid_11 { width: 914px; }
 .grid_12 { width: 1000px; }
 
 .grid_1,
@@ -30,7 +30,7 @@
 .grid_10,
 .grid_11,
 .grid_12 {
-	margin: 0 20px 10px 0;
+	margin: 0 32px 10px 0;
 	float: left;
 	display: block;
 }

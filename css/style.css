@@ -1,12 +1,12 @@
 body {
     font-family: 'Enriqueta', sans-serif;
     font-size: 1.2em;
-    color: #FAF3BC;
+    color: #820000;
     background: #FFF;
 }
 
 a {
-    color: #4FB69F;
+    color: #E88B00;
     text-decoration: none;
 }
 
@@ -17,7 +17,7 @@ h1 {
 
 h2 {
     font-size: 1.500em;
-    color: #B4C34F;
+    color: #E88B00;
 }
 
 .logo {
