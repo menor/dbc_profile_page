@@ -40,18 +40,24 @@ h2 {
 }
 
 ul.nav {
-    margin: 120px 0 0 0;
+    margin: 110px 0 0 0;
+    padding-bottom: 6px;
     list-style: none;
     float: right;
+    border-bottom: solid 2px #820000;
 }
 
 ul.nav li {
     float: left;
-    margin-right: 40px;
+    margin-right: 30px;
 }
 
 ul.nav li a {
-    color: #FAF3BC;
+    color: #2D0A04;
+}
+
+ul.nav li a:hover {
+    color: #E80000;
 }
 
 #intro {
