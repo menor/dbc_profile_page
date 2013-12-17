@@ -20,6 +20,10 @@ h2 {
     color: #B4C34F;
 }
 
+.logo {
+    padding: 20px 20px;
+}
+
 .btn {
     font-size: 1em;
     letter-spacing: 2px;
@@ -54,12 +58,12 @@ ul.nav li a {
     margin: 50px 0 75px 0;
 }
 
-#new-cupcakes img{
+#some-picks img{
     border: 8px solid #FAF3BC;
     margin: 0 0 20px 0;
 }
 
-#featured-cupcake img{
+#about-me img{
     border: 8px solid #FAF3BC;
 }
 
